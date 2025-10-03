@@ -5,7 +5,7 @@
 <!-- [![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/YOUR_INVITE_CODE) -->
 
 
-**BCML's** official library for loading BCML AI models.
+**BCML's** official Python library for loading BCML AI models.
 
 ## Install
 ```
@@ -16,7 +16,7 @@ pip install bcml-ai
 ```python
 import bcml
 
-print(bcml.hello("world") # just a test
+print(bcml.hello("world")) # just a test
 ```
 
 More coming soon.
