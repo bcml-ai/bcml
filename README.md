@@ -29,3 +29,7 @@ More coming soon.
 
 - An intuitive, simple wrapper for loading all BCML-based AI models, including Large Language Models (LLMs), image generation models, etc. with a usable and clean interface.
 - BCLM 1.0+, BCML Brain 1.0+
+
+## Official Release
+
+The official release version of the BCML library will be **1.0.0**. It will be based on the Universal Library Spec, in active development.
