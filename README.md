@@ -7,8 +7,9 @@ pip install bcml-ai
 ```
 
 ## Usage
-```
+```python
 import bcml
+
 print(bcml.hello("world") # just a test
 ```
 
