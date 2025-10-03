@@ -24,3 +24,8 @@ print(bcml.hello("world")) # just a test
 ```
 
 More coming soon.
+
+## Goals
+
+- An intuitive, simple wrapper for loading all BCML-based AI models, including Large Language Models (LLMs), image generation models, etc. with a usable and clean interface.
+- BCLM 1.0+, BCML Brain 1.0+
