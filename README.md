@@ -1,5 +1,9 @@
 # bcml-ai
 
+<p>
+  <img src="/repo/bcml.webp" alt="BCML logo" width="300">
+</p>
+
 [![PyPI](https://img.shields.io/pypi/v/bcml-ai?logo=pypi&style=for-the-badge&color=#fff)](https://pypi.org/project/bcml-ai/)
 [![Python 3](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
 <!-- [![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/YOUR_INVITE_CODE) -->
